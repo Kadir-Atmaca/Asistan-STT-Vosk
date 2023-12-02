@@ -1,4 +1,6 @@
 # Asistan-STT-Vosk
+
+https://www.youtube.com/@kadiratmaca1
 Bu depo stt yani speech to text Türkçesiyle  sesi yazıya çevirme Türkçe şekilde
 Resmi site:https://alphacephei.com/vosk/
 
